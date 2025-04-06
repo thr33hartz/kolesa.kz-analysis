@@ -1,0 +1,23 @@
+# python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# environment variables
+venv/
+env/
+.env
+*/venv/
+*/env/
+*/.env
+
+# ide folders
+.idea/
+.vscode/
+*.swp
+
+.DS_Store
+Thumbs.db
