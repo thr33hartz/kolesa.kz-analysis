@@ -70,7 +70,7 @@ The data for this project consists of information scraped from kolesa.kz car adv
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your_repository_url>
+    git clone https://github.com/thr33hartz/kolesa.kz-ML
     cd kolesa.kz-analysis
     ```
 2.  **Create and activate a virtual environment:**
