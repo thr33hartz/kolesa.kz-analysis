@@ -33,7 +33,7 @@ chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
 chrome_options.add_experimental_option('useAutomationExtension', False)
 
 driver = None
-all_urls = set()s
+all_urls = set()
 
 # ensure data directory exists
 os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
